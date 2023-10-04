@@ -7,6 +7,5 @@
 // console.log(ValueInNumber);
 
 let a = ""
-
 let b = Boolean(a)
 console.log(b)
