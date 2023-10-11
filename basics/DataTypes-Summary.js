@@ -30,25 +30,26 @@
 
 //non primitive - array , object ,  functions
 
+let a = [1,2]
+console.log(typeof a)
 
+// let user = {
+//     firstname: "harsha",
+//     age: 24,
+//     token: true
+// }
 
-let user = {
-    firstname: "harsha",
-    age: 24,
-    token: true
-}
+// let array = [1, 2, 3, 4, 5]
 
-let array = [1, 2, 3, 4, 5]
+// let RoughFunction = MyFunction = () => {
+//     let i = 0
+//     array.map((value) => {
+//         i = i + value
+//     })
+//     console.log(i)
+// }
 
-let RoughFunction = MyFunction = () => {
-    let i = 0
-    array.map((value) => {
-        i = i + value
-    })
-    console.log(i)
-}
-
-MyFunction()
+// MyFunction()
 
 /*
 value = 1
