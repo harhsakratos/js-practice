@@ -1,0 +1,1 @@
+((string)=>(console.log(`Hello ${string}`)))("harsha")
